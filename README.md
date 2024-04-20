@@ -9,7 +9,7 @@ Practice - 1 Repository
   <caption>GIT COMMAND</caption>
   <tr>
     <th>s.no</th>
-    <th>Git Command</th>th>
+    <th>Git Command</th>
     <th>Discription</th>
 </tr>
 <tr>
