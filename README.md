@@ -5,7 +5,7 @@ Practice - 1 Repository
 <p>
   This is practice file
 </p>
-<table align=center>
+<table align=cenTer>
   <caption>GIT COMMAND</caption>
   <tr>
     <th>s.no</th>
