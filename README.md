@@ -1,4 +1,4 @@
-<h1>
+<h1 align=center>
 Practice - 1 Repository   
 </h1>
 <p>
