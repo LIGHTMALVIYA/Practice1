@@ -5,8 +5,8 @@ Practice - 1 Repository
 <p>
   This is practice file
 </p>
-<table>
-  <caption align= center>GIT COMMOND</caption>
+<table align=center>
+  <caption>GIT COMMOND</caption>
   <tr>
     <th>s.no</th>
     <th>Discription</th>
